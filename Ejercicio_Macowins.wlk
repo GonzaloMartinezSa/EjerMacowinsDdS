@@ -53,6 +53,7 @@ class Efectivo {
 
 class Tarjeta {
     var cuotas
+    var coeficienteRecargo = 0.5
     method precioFinal(subtotal) {
        return recargo(subtotal) + subtotal
     }
