@@ -62,7 +62,7 @@ class Tarjeta {
 }
 //////////////////////////////////////////////////////////
 
-
+//Tarjeta podria heredar de Efectivo, pero no estoy seguro.
 
 
 
