@@ -16,7 +16,7 @@ class Nueva {
 
 
 class Promocion {
-    var precioFijo
+    var valorFijo
     method calcularPrecio(precioBase) = precioBase - valorFijo
 
 }
